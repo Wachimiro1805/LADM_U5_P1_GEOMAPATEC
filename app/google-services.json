@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "311686797612",
+    "project_id": "ladm-u4-ejercicio4-mapas",
+    "storage_bucket": "ladm-u4-ejercicio4-mapas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311686797612:android:c1dab0e6a04fd5c1dab489",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u4_ejercicio4_mapas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UAiy1rpVEzpkaB1E65mVT-Yx5wDisg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311686797612:android:3eb4e9196ac241c1dab489",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_ejercicio1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UAiy1rpVEzpkaB1E65mVT-Yx5wDisg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311686797612:android:595a8b169b17ad1cdab489",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_p1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UAiy1rpVEzpkaB1E65mVT-Yx5wDisg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311686797612:android:3a54f5d9202264fbdab489",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_p1_geomapatec_eduardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UAiy1rpVEzpkaB1E65mVT-Yx5wDisg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311686797612:android:55799b1779403ff6dab489",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u5_practica1_eduardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6UAiy1rpVEzpkaB1E65mVT-Yx5wDisg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311686797612-08s3752nqre9vf1oc9r4dgoedp335rus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
